@@ -1,0 +1,35 @@
+SpadeX
+Created by JesusA_777
+
+MAKE YOUR WEBSITE PUBLIC
+
+1. Extract this ZIP file.
+2. Upload ALL extracted files and the assets folder to the main folder of a
+   public HTTPS website. index.html must be at the top level of the website.
+3. Open the web address your hosting service gives you and share that address.
+
+These files do not require ChatGPT sign-in. Public access is controlled by
+the web hosting service you choose; set that website to public.
+
+No build step or package installation is needed for hosting these files.
+Keep the filenames and folder structure unchanged. The assets folder,
+JavaScript files, fonts, and WebAssembly file must all be uploaded.
+
+Host at the root of your website address, such as https://your-domain.example/,
+rather than inside a subfolder. HTTPS is required for the browsing features.
+Opening index.html directly from your computer will not run the full app.
+
+FEATURE AVAILABILITY
+
+The download contains the SpadeX frontend. Browsing, games, AI, and music rely
+on external providers and remain subject to their availability and access
+rules. Their server infrastructure is not included in this package. Account
+sign-in and payments are disabled until you connect your own services.
+
+The SpadeX branding, spade icon, and Created by JesusA_777 credit are included.
+The original advertising and Google Analytics components have been removed.
+
+The starting frontend was provided at:
+https://storage.googleapis.com/studyk12/index.html
+Third-party components retain their applicable licenses. The creator credit
+identifies this customized SpadeX edition.
